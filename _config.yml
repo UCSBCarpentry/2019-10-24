@@ -3,7 +3,7 @@
 #------------------------------------------------------------
 
 # Which carpentry is this ("swc", "dc", "lc", or "cp")?
-# swc: Software Carpentry
+swc: Software Carpentry
 #  dc: Data Carpentry
 #  lc: Library Carpentry
 #  cp: Carpentries (to use for instructor training for instance)
@@ -26,7 +26,7 @@ curriculum: "FIXME"
 flavor: "r"
 
 # Overall title for pages.
-title: "Workshop Title"
+title: "Software Carpentry: Intro to Bash (the Unix shell) and version control"
 
 
 #------------------------------------------------------------
